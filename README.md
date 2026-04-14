@@ -27,9 +27,5 @@ This project is an end-to-end Data Analyst solution built using Power BI and DAX
  Data cleaning and transformation
  Converting raw data into meaningful insights
 
-## 👤 Author
-
-Maneesh
-Aspiring Data Analyst | Skilled in Excel, SQL, Power BI
 
 
